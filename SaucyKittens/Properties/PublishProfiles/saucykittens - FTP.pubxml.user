@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9ZE70/JhMEGdCpE05AuorAAAAAACAAAAAAAQZgAAAAEAACAAAADRlOEvwovkfyARAdLqPdISJQka8T1zgo4lF/PYCZFgtgAAAAAOgAAAAAIAACAAAACIBxEedF9gGPB0+ix5I5DTNcZiqZl3fQV3WTSKGrzdh4AAAAAtn6gQkfy7VAQbYCjyqmmqEP/p7QRq6oCXXgzLiZM3n5FbF+XFH095kAs4e+HBdi5w8ISY6YagnfQPOuHD2ySwOTmdAsZCQtT+hNPigS95T64A9tcKZiBSrv9c/L/KRUQXYWnLfCwRArl7ZiHVVxJac+8Yn+KjQleIG3cSMIo19EAAAACeDbMt0foSo+oATd/Jzw4k894AX2TmY5Re6jYKhlqzRdNdi+QTNhACEmqt5Hzt6ad4Pwp9/xffxuRKTXjj6Wld</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-bn1-041.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="SaucyKittens.deps.json">
+      <publishTime>04/06/2020 16:27:03</publishTime>
+    </File>
+    <File Include="SaucyKittens.dll">
+      <publishTime>04/06/2020 16:26:59</publishTime>
+    </File>
+    <File Include="SaucyKittens.exe">
+      <publishTime>04/06/2020 16:26:59</publishTime>
+    </File>
+    <File Include="SaucyKittens.pdb">
+      <publishTime>04/06/2020 16:26:59</publishTime>
+    </File>
+    <File Include="SaucyKittens.runtimeconfig.json">
+      <publishTime>04/06/2020 16:27:03</publishTime>
+    </File>
+    <File Include="SaucyKittens.Views.dll">
+      <publishTime>04/06/2020 16:27:03</publishTime>
+    </File>
+    <File Include="SaucyKittens.Views.pdb">
+      <publishTime>04/06/2020 16:27:03</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/06/2020 16:27:06</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>04/06/2020 16:24:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
